@@ -2,7 +2,7 @@
 
 I'm a Linux admin & DevOps newbie, exploring a bit of everything.
 
-##Stack of technologies:
+## Stack of technologies:
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
